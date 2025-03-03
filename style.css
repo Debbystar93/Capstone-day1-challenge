@@ -34,16 +34,22 @@ p{
     .content {
         flex-direction: row;
         text-align: left;
-        max-width: 70%;
+
     }
 
     .text {
         padding-right: 20px;
-        font-size: 1rem;
+        font-size: 8px;
     }
-
+    .p{
+        font-size: 1rem;
+        padding-right: 20px;
+    }
     img {
         width: 250px;
         height: auto;
+        padding-right: 20px;
+        align-items: center;
+        
     }
 }
