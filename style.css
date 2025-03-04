@@ -30,7 +30,7 @@ p{
     margin-right: 170px;
     
 }
-@media (minlas-width: 768px) {
+@media (min-width: 768px) {
     .content {
         text-align: left;
 
