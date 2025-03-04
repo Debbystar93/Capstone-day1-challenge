@@ -30,9 +30,8 @@ p{
     margin-right: 170px;
     
 }
-@media (min-width: 768px) {
+@media (minlas-width: 768px) {
     .content {
-        flex-direction:row-reverse
         text-align: left;
 
     }
